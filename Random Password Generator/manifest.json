@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Random Password Generator",
+    "description": "Generates random passwords with customizable length.",
+    "icons": {
+        "48": "icons/48.png",
+        "96": "icons/96.png"
+    },
+    "version": "1.0",
+    "browser_action": {
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "activeTab",
+      "clipboardWrite"
+    ]
+  }
+  
