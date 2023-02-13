@@ -1,2 +1,2 @@
 # Random-Password-Generator
-enerates random passwords with customizable length.
+Generates random passwords with customizable length.
